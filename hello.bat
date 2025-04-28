@@ -1,1 +1,1 @@
-echo 'hello u r in production stage'
+echo 'hello u r in production'
